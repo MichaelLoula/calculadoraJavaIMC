@@ -19,7 +19,7 @@ public class JavaIMC {
     public static void main(String[] args) throws FileNotFoundException, IOException {
 
         
-        String path = "C:\Users\MichaelS\Documents\Trabalho\eclipse\javaimc-main";
+        String path = "../Dataset.CSV";
 
         BufferedReader buffRead = new BufferedReader(new FileReader(path));
 
